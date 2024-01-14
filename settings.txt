@@ -1,0 +1,18 @@
+device_address = "127.0.0.1:62026"
+adb_path = "D:\Nox\bin\adb.exe"
+
+#是否7點更新
+server_maintain = 0
+
+# 不更改：0, 更改：1
+change_time = 1
+Use_current_time = 1
+target_hour = 1
+target_mins = 59
+Change_progress = 0
+
+first_world_event = 1
+second_world_event = 0
+
+#世界活動
+#未來通行 活動世界頭目 時間線生存戰

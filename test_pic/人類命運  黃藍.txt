@@ -1,0 +1,37 @@
+人類命運  黃藍
+黑暗統治  紅藍
+銀河號令  
+第一家庭
+X特攻隊
+X戰警崛起
+至尊法師
+
+Call StartQuest(3)  // 混沌的起源 1m 24s    
+Call StartQuest(1)  // 扭曲的世界(拉托維尼亞的冠軍) 3m 17s
+Call StartQuest(2)  // 扭曲的世界(破滅的影子之下) 3m 1s
+Call StartQuest(0)  // 破滅之日 1m 13s      
+Call StartQuest(4)  // 時空分裂(墮落使者) 3m 34s
+Call StartQuest(5)  // 時空分裂(終極墮落) 2m 55s    
+Call StartQuest(6)  // 宇宙的命運 1m 5s      
+Call StartQuest(7)  // 黃金神祇(戰爭之神) 3m 34s
+Call StartQuest(8)  // 黃金神祇(扭曲現實) 3m 38s
+Call StartQuest(9)  // 真正的進化 2m 23s          
+Call StartQuest(10) // 英雄集結(瘋狂延燒) 2m 15s    
+Call StartQuest(11) // 英雄集結(震驚和敬畏) 2m 13s  
+Call StartQuest(12) // 共同的敵人 1m 13s     
+Call StartQuest(13) // 笨蛋Ｘ戰警(鍍鉻同伴) 3m 5s
+Call StartQuest(14) // 笨蛋Ｘ戰警(靈蝶拒之門外) 3m 9s
+Call StartQuest(16) // 隱藏的秘密(萬磁王之力) 
+Call StartQuest(17) // 隱藏的秘密(鳳凰覺醒)
+Call StartQuest(19) // 孿生小孩(切斷機堡)
+Call StartQuest(20) // 孿生小孩(終結紛爭)
+
+685 120
+785 120
+880 120
+980 120
+1075 120
+dark_reign
+identity theft
+
+error: protocol fault (couldn't read status): connection reset
